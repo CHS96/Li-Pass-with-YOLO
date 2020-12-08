@@ -10,6 +10,10 @@
 
 >Darknet YOLO, OpenCV 부분을 맡아서 프로젝트를 진행하였다.
 
+> 삼성 S/W 경진대회에서 3등 우수상을 받았다.
+
+> 고생한 만큼 좋은 성적을 얻을 수 있어서 기쁘다.
+
 <h3> Demo </h3>
 
 ![Demo](https://user-images.githubusercontent.com/53072057/101374188-360c9480-38f1-11eb-9908-4b5cb61b157e.JPG)
@@ -17,4 +21,6 @@
 <h3> Li-Pass 시연 영상 </h3>
    
 [![Vue](https://user-images.githubusercontent.com/53072057/101378498-81757180-38f6-11eb-9db4-d381f0deea80.JPG)](https://www.youtube.com/watch?v=mx2nLfCE47M)
-  
+ 
+
+ 
