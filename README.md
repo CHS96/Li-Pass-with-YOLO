@@ -14,6 +14,10 @@
 
 > 고생한 만큼 좋은 성적을 얻을 수 있어서 기쁘다.
 
+<h3> 시스템 전체 동작 과정 </h3>
+
+![동작과정](https://user-images.githubusercontent.com/53072057/101592240-44fa6080-3a31-11eb-8df4-4ad83b688af4.JPG)
+<br>
 <h3> Demo </h3>
 
 ![Demo](https://user-images.githubusercontent.com/53072057/101374188-360c9480-38f1-11eb-9908-4b5cb61b157e.JPG)
